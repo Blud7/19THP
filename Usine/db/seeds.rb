@@ -18,5 +18,3 @@ end
 	assemblies = Assembly.create!(name: Faker::Name.first_name)
 
 end
-
-# 25.times do |index|
